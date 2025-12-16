@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hello
+=======
+user2
+datpro
+dat123
+>>>>>>> refs/remotes/origin/main
